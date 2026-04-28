@@ -1,5 +1,7 @@
 # OpenCLI Adapter Dev 🚀
 
+![OpenCLI Hero](assets/hero.jpg)
+
 Turn any website, browser session, or Electron app into a standardized CLI. Built for AI Agents to discover, learn, and execute tools seamlessly.
 
 [![NPM](https://img.shields.io/npm/v/@jackwener/opencli?style=flat-square)](https://www.npmjs.com/package/@jackwener/opencli)
