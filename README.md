@@ -29,10 +29,17 @@ npm install -g @jackwener/opencli
 ```
 
 ### 2. Install this Skill | 安裝此技能
-**For Hermes Agent / OpenClaw:**
+
+#### 📦 For Hermes Agent
 ```bash
 # Use the official skill installer | 使用官方技能安裝程序
 hermes skill install https://github.com/cheerhuan/opencli-skill-dev
+```
+
+#### 📦 For OpenClaw
+```bash
+# Use the openclaw skill manager | 使用 OpenClaw 技能管理器
+openclaw skill install https://github.com/cheerhuan/opencli-skill-dev
 ```
 
 ---
