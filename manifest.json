@@ -1,0 +1,11 @@
+{
+  "name": "opencli-adapter-dev",
+  "version": "1.0.0",
+  "description": "Standardized workflow for developing OpenCLI adapters for websites and Electron apps.",
+  "author": "cheerhuan",
+  "category": "software-development",
+  "dependencies": {
+    "opencli": "@jackwener/opencli"
+  },
+  "install_script": "npm install -g @jackwener/opencli"
+}
